@@ -3,4 +3,4 @@
 
 # ---- Need libraries installed by setup.py
 cfn_flip>=1.0.2
-django==3.13
+django==3.2.13
